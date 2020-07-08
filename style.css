@@ -1,0 +1,131 @@
+body{
+    background-color: #f1eeee;
+}
+.header{
+    background-color: #F0FFF0;
+}
+.top{
+    margin-top: 15px;
+
+}
+.
+.row{
+    padding-bottom: 15px;
+}
+
+.navbar-brand img{
+    width: 200px
+}
+.sign-in-button{
+    background-color: #21B573;
+    color:white;
+    padding: 2px 16px;
+    border-radius: 33px;
+    
+}
+.sign-in-button a{
+    color: white !important;
+}
+.illustration{
+    max-width: 100%;
+}
+.learn{
+    font-size: 16px;
+    line-height: 24px;
+    color:red;
+}
+h1{
+    margin: 35px 0;
+    font-size: 48px;
+    color: black;
+    font-weight: bold;
+}.span{
+    color: #21B573;
+}
+.wrapper{
+    margin-top: 100px;
+    
+ }
+p{
+    font-size: 16px;
+    color:#6C6B6B;
+}
+.buy-now-button{
+    background-color: #21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 36px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+.icon{
+    border-radius: 10px;
+    width: 100px;
+    padding: 25px;
+}
+.box{
+    background-color: #F8FFFB;
+    height: 200px;
+}
+.box:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+h3{
+    color: #413960;
+    font-weight: 500;
+}
+h2{
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 700;
+}
+.card{
+    border-radius: 18px;
+}
+.card-img-top{
+    padding: 20px;
+}
+.icons-course{
+    width: 15px;
+}
+.start-p{
+    margin: 15px 5px;
+    font-size: 14px;
+}
+.course{
+    margin-left: 80px;
+}
+.card:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+    
+}
+.testimonial img{
+    width: 130px;
+}
+footer{
+    background-color: black;
+    position: relative;
+}
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    margin: 0;
+}
+.courses-li{
+    
+    font-size: 22px;
+    font-weight: 700;
+}
+.footer-p{
+    color: white;
+}
+.space{
+    padding-left: 6px;
+    color: #CDCDCD;
+
+}
